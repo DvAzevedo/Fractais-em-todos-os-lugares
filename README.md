@@ -27,7 +27,7 @@ git clone git@github.com:DvAzevedo/Fractais-em-todos-os-lugares.git
 
 * 1.Abra o repositório no VsCode.
 * 2.Clique no botão "Go Live" no canto inferior direito.
-img src =  https://github.com/DvAzevedo/Fractais-em-todos-os-lugares/issues/1#issue-1893755237
+* [Go Live](https://github.com/DvAzevedo/Fractais-em-todos-os-lugares/issues/1#issue-1893755237) 
 * 3.Abra a página que foi aberta e clique em "lista-de-exercicios-01-DvAzevedo-main".
 * 4.Selecione novamente "lista-de-exercicios-01-DvAzevedo-main".
 * 5.Por fim, escolha a opção "codigoBase". Essa deverá ser a página que você verá.
