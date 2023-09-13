@@ -25,11 +25,11 @@ git clone git@github.com:DvAzevedo/Fractais-em-todos-os-lugares.git
 
 ## ⚙️ Executar
 
-*1.Abra o repositório no VsCode.
-*2.Clique no botão "Go Live" no canto inferior direito.
-*3.Abra a página que foi aberta e clique em "lista-de-exercicios-01-DvAzevedo-main".
-*4.Selecione novamente "lista-de-exercicios-01-DvAzevedo-main".
-*5.Por fim, escolha a opção "codigoBase". Essa deverá ser a página que você verá.
+1.Abra o repositório no VsCode.;
+2.Clique no botão "Go Live" no canto inferior direito.;
+3.Abra a página que foi aberta e clique em "lista-de-exercicios-01-DvAzevedo-main".;
+4.Selecione novamente "lista-de-exercicios-01-DvAzevedo-main".;
+5.Por fim, escolha a opção "codigoBase". Essa deverá ser a página que você verá.
 
 Agora escolha uma das questões e veja a mágica acontecendo.
 
